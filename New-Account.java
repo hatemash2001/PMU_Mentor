@@ -57,7 +57,7 @@ public class PMUMentor {
 // Example usage:
 public class Main {
     public static void main(String[] args) {
-        PMUMentor mentor = new PMUMentor("John", "Doe", "johndoe@example.com", "password123");
+        PMUMentor mentor = new PMUMentor("Goerge", "Peterson", "goergepeterson@example.com", "password500");
         mentor.createNewAccount();
     }
 }
